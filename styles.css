@@ -1,0 +1,169 @@
+    .header
+         {
+            width:384px;
+    		height:65px;
+    		box-shadow:#000000;	
+    		margin-left: 50px;
+            box-shadow: 0px 2px 6px #000000;
+         }
+
+     .BritishAirwysicon
+        {
+            text-align: center;
+            color: #000000;
+    		width:68.61px;
+    		height:18px;
+    	    margin-left:152.58px;
+    		margin-top : 24px;
+       }
+       
+       .image {
+       content:url(ba.jpg);
+    }
+
+       .image
+       {
+    	   background-image: url("ba.png");
+    	   width:120px;
+    	   height:60px;
+       }
+       
+    .div-main
+        {
+           	width:387px;
+    		height:618px;
+    		border-width:1px;
+    		border-color:grey;
+            margin-left: 50px;
+    		background-color:#e0e0e0;
+            opacity: 73%;
+    		/*background: linear-gradient(to top left, #C5C5C5 0%, #F7F8F8 100%);*/
+    		
+        }
+    	
+    	.background 
+    	{
+    		background-color:#021B41;
+    		opacity:73%;
+    	}
+    	
+
+       .que
+          {
+    		  width:106px;
+    		  height:20px;
+    		  margin-left:139px;
+    		  margin-top :20px;
+    		 color:#C5C5C5;
+    		 font-size: 10px;
+    		 text-align: center;
+    		 
+    		 font-family:Mylius Modern;
+    		 opacity: 100%;
+
+
+    	 }
+    	 
+    	 .err
+          {
+    		  width:106px;
+    		  height:33px;
+    		  margin-left:139px;
+    		  margin-top :20px;
+    		 color:white;
+    		 padding-bottom:60px;
+    		 font-family:Mylius Modern;
+    		 font-size:10px;
+    	 }
+    	 
+    .heading
+        {
+           text-align: center;
+    	   font-size:26px;
+    	   font-family:Mylius Modern;
+    	   color:#021B41;
+    	   width:370.16px;
+    	   height:147.39px;
+    	   padding-left:7px;
+    	padding-right:6.84px;
+    	   margin-top : 12px;
+    	   
+    	}
+    	
+    	.error-content
+        {
+    		width:325.16px;
+    		height:453.39px;
+           text-align: center;
+    	   font-size:26px;
+    	   font-family:Mylius Modern;
+    	   color:#FFFFFF;
+    	   text-align:center;
+    	   padding-left:27px;
+    	   padding-right:31.84;
+    	  }
+    	
+    .div-options-main
+        {
+    		text-align: center;
+    		width:312px;
+    		height:179px;
+    		margin-left:36px;
+    		margin-top:0px;
+    		opacity:60%;
+    		background-color:white;
+    	}
+    	
+    .question
+       {
+    	width:262px;
+    	height:20px;
+    	font-family:Mylius Modern;
+    	font-size:16px;
+    	text-align:center;
+    	color:#021B41;
+    	font-weight:regular;
+    	margin-left:61px;
+    	margin-top:10px;
+    	margin-bottom:20px;
+    	}
+    		
+    	
+
+    	.button
+    	{
+        border: none;    
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;   
+        cursor: pointer;
+    	}
+    .button1 
+        {
+    		background-color: #2E5C99;
+    	   width: 248px;
+    	   height:50px; 
+    	   margin-top:32px;
+    	    margin-right:32px;
+    	   margin-left:32px;
+    	    font-size: 16px;
+    		color: white;
+    	 }
+
+    	 .button2 
+        {
+    		background-color: white;
+    	   width: 248px;
+    	   height:50px;	   
+    	   margin-top:18px;
+    	   margin-right:32px;
+    	   margin-left:32px;
+    	   color:#2E5C99;
+    	    font-size: 16px;
+    		border-style:solid;
+    		border-width:1px;
+    		border-color:#2E5C99;
+    	 }
+
+
